@@ -1,3 +1,7 @@
+https://handle.stage.datacite.org/10.5072/zenodo.129309
+
+![badge](https://zenodo.org/badge/doi/10.5072/zenodo.129309.svg)
+
 # TeSS-materials
 
 This repository will contain materials related to the use of TeSS. 
